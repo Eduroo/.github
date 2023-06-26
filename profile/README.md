@@ -1,6 +1,6 @@
 <center>
   
-  ![Eduroo organization banner](https://raw.githubusercontent.com/eduroo/.github/main/img/banners/eduroo_org_banner.png)
+  ![Eduroo organization banner](https://raw.githubusercontent.com/eduroo/.github/main/img/banners/eduroo_banner.png)
   ## 🦘 +🎓 = 🫶
   
 </center>
